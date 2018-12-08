@@ -1,2 +1,0 @@
-# music-bot
-müzik bot
